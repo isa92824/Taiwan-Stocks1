@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>台股晶圓圖｜台股指數、類股與 ETF 每日漲跌</title>
+  <meta name="description" content="用晶圓圖看台股加權指數、成分指數、類股指數、記憶體族群與 ETF 的每日漲跌，並附上新聞可能影響哪些指數的標註。">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="wrap">
+    <section class="hero">
+      <div id="hero-text"><p class="loading">讀取收盤資料中…</p></div>
+      <div>
+        <div class="wafer-box" id="wafer"></div>
+        <p class="wafer-caption">加權指數在晶圓中心，其餘依清單順序由內往外排列</p>
+      </div>
+    </section>
+
+    <section class="block" id="tables"></section>
+    <section class="block" id="news"></section>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/chart.js"></script>
+  <script src="assets/js/wafer.js"></script>
+  <script src="assets/js/home.js"></script>
+</body>
+</html>

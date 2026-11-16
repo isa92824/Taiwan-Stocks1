@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-16",
+ "analyzed_at": "2026-11-16T13:30:00+08:00",
+ "note": "黃仁勳 11/12 辭去輝達執行長（輝達 8-K：董事會 11/11 接受辭呈，財務長 Colette Kress 暫代）；輝達 11/17 美股盤後公布第三季財報。",
+ "items": [
+  {
+   "news_id": "99703b747891",
+   "direction": "偏空",
+   "strength": 3,
+   "indices": ["semi", "tw50", "taiex", "elec"],
+   "reason": "輝達執行長請辭、由財務長暫代 → 市場擔心 AI 投資節奏與產品時程 → 台積電等 AI 供應鏈權值股遭賣壓 → 半導體與大盤承壓"
+  },
+  {
+   "news_id": "131ced9cb99f",
+   "direction": "偏空",
+   "strength": 2,
+   "indices": ["computer", "components", "elec"],
+   "reason": "市場關注輝達與客戶間的循環融資 → 若雲端業者資本支出放緩，伺服器組裝與零組件訂單可能減少 → 相關類股評價下修"
+  },
+  {
+   "news_id": "61aafed8f370",
+   "direction": "偏空",
+   "strength": 2,
+   "indices": ["telecom", "opto", "components"],
+   "reason": "光通訊與 CPO 概念股今年漲幅大、融資比重高 → 輝達利空引發獲利了結與融資追繳 → 通信網路、光電類跌幅擴大"
+  },
+  {
+   "news_id": "4f60c8ae6ace",
+   "direction": "偏空",
+   "strength": 2,
+   "indices": ["components", "elec"],
+   "reason": "ABF 載板三雄跌停 → 市場將 AI 伺服器相關零組件一併賣出 → 電子零組件類承壓"
+  },
+  {
+   "news_id": "326e572c2b79",
+   "direction": "偏空",
+   "strength": 2,
+   "indices": ["taiex", "tw50"],
+   "reason": "新台幣貶向 33 元，反映外資持續賣股匯出 → 賣壓集中在市值大的權值股 → 大盤與臺灣50 受壓較重"
+  },
+  {
+   "news_id": "d8a801a73015",
+   "direction": "偏多",
+   "strength": 1,
+   "indices": ["finance", "taiex"],
+   "reason": "央行表態會實際進場穩定匯率並將升息列為選項 → 可減緩新台幣急貶與資金外流；升息也可能改善銀行利差"
+  },
+  {
+   "news_id": "b0ec8fc9ddb5",
+   "direction": "偏多",
+   "strength": 2,
+   "indices": ["finance", "high-div"],
+   "reason": "資金從電子股轉向金融股避險 → 中信金等金控股價創高 → 金融保險類與金融比重較高的高股息指數相對抗跌"
+  },
+  {
+   "news_id": "88c0b44800a3",
+   "direction": "中性",
+   "strength": 1,
+   "indices": ["semi", "taiex"],
+   "reason": "央行總裁認為黃仁勳事件屬短期衝擊、不影響輝達北士科計畫 → 有助穩定信心，但無法直接改變當前賣壓"
+  },
+  {
+   "news_id": "4c5209df9e51",
+   "direction": "中性",
+   "strength": 1,
+   "indices": ["semi", "computer", "taiex"],
+   "reason": "輝達 11/17 美股盤後公布換帥後首份財報（台灣時間 11/18 清晨）→ 營收與毛利指引將左右 AI 供應鏈後續走向，公布前市場觀望"
+  },
+  {
+   "news_id": "ee5b68adc8be",
+   "direction": "偏多",
+   "strength": 1,
+   "indices": ["semi"],
+   "reason": "輝達換帥增加客戶分散供應商的意願 → 谷歌 TPU 等 ASIC 長期訂單可能增加 → 聯發科等 ASIC 相關半導體公司受惠"
+  },
+  {
+   "news_id": "24b860ca6e15",
+   "direction": "中性",
+   "strength": 1,
+   "indices": ["semi", "computer"],
+   "reason": "標題為傳聞，細節未獲官方證實 → 資訊不足無法判斷方向；若出口管制調查擴大，可能影響 AI 伺服器出貨審查"
+  },
+  {
+   "news_id": "a53732e67d9d",
+   "direction": "中性",
+   "strength": 1,
+   "indices": ["00878", "high-div"],
+   "reason": "00878 今天是最後買進日、明天除息 → 市價會依配息金額向下調整，走勢圖出現的缺口不代表實際虧損"
+  },
+  {
+   "news_id": "54c30db0c7bf",
+   "direction": "偏多",
+   "strength": 1,
+   "indices": ["plastics"],
+   "reason": "FactSet 調查顯示分析師上調台塑、台塑化目標價 → 反映對獲利預期改善 → 塑膠類在電子股重挫時可能相對有撐"
+  }
+ ]
+}
